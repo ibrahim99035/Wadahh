@@ -7,7 +7,7 @@ Android app to collect medical data from users over text or capture image, and s
 3. Covid-19 infection.
 4. The late detection of the disease.
 ---
-## Solution idear :
+## Solution idea :
 
 - periodic analysis using easy service :
     - enter your data using analysis image or text fields.
@@ -37,7 +37,8 @@ Android app to collect medical data from users over text or capture image, and s
 2. Salma Khaled
 3. Samah Dawod
 4. Mohamed nasaar
-5. Ibrahim mohamed
+5. Mohamed elmalaah
+6. Ibrahim mohamed
 ---
-![Android](https://cdn-icons.flaticon.com/png/512/232/premium/232410.png?token=exp=1646228427~hmac=90a59349b3322edd9c9f93626af7dc3a)
+![Android](https://cdn-icons-png.flaticon.com/512/888/888839.png)
 ![machine learning](https://cdn-icons-png.flaticon.com/512/2103/2103607.png)
